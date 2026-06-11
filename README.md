@@ -1,4 +1,4 @@
-# 🚴 AdventureWorks REAL 100 Project
+# 🚴 AdventureWorks 
 
 ## AI 기반 CRM Business Intelligence & Sales Prediction System
 
